@@ -14,3 +14,5 @@ Suggests:
     pkgdown
 Remotes:
     r-lib/pkgdown
+URL: https://github.com/DavisVaughan/testautodeploy
+BugReports: https://github.com/DavisVaughan/testautodeploy/issues
