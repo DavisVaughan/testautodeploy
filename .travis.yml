@@ -12,4 +12,4 @@ matrix:
   - r: devel
   - r: release
     after_success:
-    - Rscript -e 'pkgdown::deploy_site_github(verbose = TRUE)'
+    - Rscript -e 'pkgdown::deploy_site_github(verbose = TRU)'
